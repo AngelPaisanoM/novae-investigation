@@ -3,4 +3,6 @@ This repository holds some of the relevant subjects, equations and models implie
 
 The jupyter notebooks present here are dedicated to 1) model the time evolution of variables 2) estimate the values of mass loss and accretion rates 3) estimate the relevant timescales associated to the problem.
 
+The observational insigth and quiescent phase are expected to improve by incorporating photometric and spectroscopic analysis of these phenomena, alongside links to modeling software  MESA to better understand accretion in the quiescent phase and near outburst.
+
 
